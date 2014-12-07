@@ -4,7 +4,7 @@ Oh, Look! The cats are making a hello world progr... *record screech* "NO", yell
 
 # Chapter 2 Installation of Rust
 
-Oh, look! The cats are installing Rust? ... *silence*. Ok then. They are installing Rust. Amazingly, they are able to do this through manipulation of the command-line of the boy's computer. The cats entered:
+Oh, look! The cats are installing Rust? ... *silence*. Ok then. They are installing Rust. Amazingly, they are able to do this through manipulation of the command-line of the boy's computer. In the command line one of the cats entered:
 
 ```
 $ curl -sS https://static.rust-lang.org/rustup.sh | sudo bash
