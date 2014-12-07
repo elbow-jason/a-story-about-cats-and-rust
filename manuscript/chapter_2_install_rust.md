@@ -7,4 +7,6 @@
 $ curl -sS https://static.rust-lang.org/rustup.sh | sudo bash
 ```
 
-And then pressed 'enter'
+And then pressed 'enter'.
+
+After entering the super user's password (don't ask how he got it) some Internet magic began logging messages to the console. These messages looked eerily similar to
