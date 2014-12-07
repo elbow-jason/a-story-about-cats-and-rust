@@ -1,4 +1,4 @@
-# Chapter 1
+# Chapter 1: How Come It Gots Cats in It?
 
 The topic about which this book was written is not the Rust Programming Language. This book is about "cats". Everything in this book is literal. There are no analogies. There are no metaphors. This is not fiction. And, interestingly, we do not believe in fallacies. This is a true story about "cats".
 
