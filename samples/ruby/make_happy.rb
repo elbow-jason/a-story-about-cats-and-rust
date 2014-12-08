@@ -7,13 +7,13 @@ class Cat
   end
 
   def make_happy
-    print "#{@name} is becoming happy...\n"
+    puts "#{@name} is becoming happy..."
     @happy = true
     return
   end
 
   def is_happy
-    print "#{@name} is happy: ", @happy, "\n"
+    puts "#{@name} is happy: #{@happy}"
     @happy
   end
 end
