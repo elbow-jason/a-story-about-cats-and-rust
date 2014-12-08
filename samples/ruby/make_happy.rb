@@ -12,7 +12,7 @@ class Cat
     return
   end
 
-  def is_happy()
+  def is_happy
     print "#{@name} is happy: ", @happy, "\n"
     @happy
   end
