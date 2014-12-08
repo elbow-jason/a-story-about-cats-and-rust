@@ -1,5 +1,5 @@
 
-# Chapter 2: New. Shiny. Purr.
+# Chapter 2: Ruby Gets Happy
 
 The experiences of Ruby and Wildman are imperative in following the decisions that he/she/they make(s) throughout the rest of this story. As such it is important to summarily go through each of their backgrounds.
 
@@ -40,23 +40,4 @@ As far as the cats care, if you know anything about Rust you should know this. I
 
 
 
-# Installation instructions
 
-Amazingly, they are able to do this through manipulation of the command-line of the boy's computer. In the command line one of the cats, Wildman if I had to gander a guess, entered:
-
-```
-$ curl -sS https://static.rust-lang.org/rustup.sh | sudo bash
-```
-
-And then pressed 'enter'.
-
-After entering the super user's password (don't ask how he got it) some Internet magic began logging messages to the console. Wildman let out a singing meow of triumph. Something interesting was happening and Wildman is only happy when something interesting is happening. In the real world, the previous command was downloading and installing the Rust compiler called via ```$ rustc --help``` and Rust's package manager, cargo called via ```$ cargo --help```.
-
-
-Notes:
-
-+ they love new things..
-+ they know ruby
-+ wildman's name was python for a single day
-+ they know python
-+ they want to learn Rust
