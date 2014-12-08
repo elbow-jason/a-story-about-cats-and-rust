@@ -15,8 +15,11 @@ struct Cat {
 
 impl Cat {
 
-  pub fn new(cats_name: &str) -> Cat {
-    Cat {name: cats_name.to_string(), happy: false}
+  pub fn new(name: &str) -> Cat {
+    Cat {
+      name: name.to_string(),
+      happy: false
+    }
   }
 
   pub fn make_happy(&mut self) {
