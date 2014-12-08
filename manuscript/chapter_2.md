@@ -32,12 +32,6 @@ Ladies first. Ruby is curious. She is always investigating, always pursuing the 
   cat.make_happy
   cat.is_happy
 ```
-Ruby read a bit, thought she understood the intention of the source code, and decided she would try being the Cat in the source code. Via the command ```$ ruby make_happy.rb```, Ruby ran the Ruby source code and the Cat named Ruby was happy. Ruby was absolutely amazed. She could make herself happy by writing some words and symbols in a certain order and then letting a computer anaylze the writing? For the first time in her life Ruby felt like she has done magic. Since that first encounter Ruby has learned all about her namesake the Ruby programming language. She is familiar with dynamic typing, inheritance, mutable strings, the principle of least astonishment, and if she drinks enough she even claims that she personally knows Matz (but we don't believe her).
+Ruby read a bit, thought she understood the intention of the source code, and decided she would try being the Cat in the source code. Via the command ```$ ruby make_happy.rb```, Ruby ran the Ruby source code and the Cat named Ruby was happy. Ruby was absolutely amazed. She could make herself happy by writing some words and symbols in a certain order and then letting a computer anaylze the writing? For the first time in her life Ruby felt like she has done magic. She had to tell Wildman all about her adventure and what she found.
 
-
-
-As far as the cats care, if you know anything about Rust you should know this. It is new, it is shiny, and it will make you purr.
-
-
-
-
+Since that first encounter Ruby has learned all she could about her namesake, the Ruby programming language. She is all manner of concepts such as dynamic typing, inheritance, mutable strings, the principle of least astonishment, and, if she drinks enough, she even claims that she personally knows Matz (but we don't believe her).
